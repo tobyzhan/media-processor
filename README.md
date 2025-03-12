@@ -14,7 +14,7 @@ Files included:
 
 • KNN Data - training the classifier with 10 different 'daytime' and 'nighttime' photos.
 
-• Inputted KNN Image - predicting whether inputted photo is a 'daytime' or 'nighttime' photo
+• KNN Test Image - predicting whether inputted photo is a 'daytime' or 'nighttime' photo
 
 • Project.py - Python code for project
 
