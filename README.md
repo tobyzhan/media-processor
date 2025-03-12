@@ -17,3 +17,5 @@ Files included:
 • Inputted KNN Image - predicting whether inputted photo is a 'daytime' or 'nighttime' photo
 
 • Project.py - Python code for project
+
+*audio files were too big to upload onto github
